@@ -1,6 +1,6 @@
 How to Set Up an SSH Key to GitHub
 
-
+editor mayur 
 
 Setting up SSH Authentication
 This process of not needing to use a username and password is called SSH authentication. Basically you are going to generate a long random string of characters and symbols and instead of submitting a username and password, your computer will submit this long string. GitHub will compare the string with the one I told it belongs to my computer and if there is a match, then GitHub lets us through. Of course it is more complex than this behind the scenes, but this is good enough to understand it for now.
